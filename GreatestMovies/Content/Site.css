@@ -1,6 +1,9 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url('../Images/oscars-2015.jpg');
+    background-size:cover;
+    background-position:center;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -22,3 +25,39 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.colBorder {
+    border: 2px solid black;
+    background: rgba(192, 192, 192, 0.1);
+    <div class="container">
+  <img src="img_avatar.png" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">John Doe</div>
+  </div>
+</div>
+}
+
+
+
+h1 {
+    text-align:center;
+    color:darkgrey;
+    font-family: 'Bellefair', serif;
+}
+
+h2 {
+    font-family: 'Slabo 27px', serif;
+    color:gold;
+}
+
+h4 {
+    color:silver;
+}
+
+h6 {
+    font-family: 'Slabo 27px', serif;
+    color:maroon;
+}
+
+
+
